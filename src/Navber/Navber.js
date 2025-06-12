@@ -16,7 +16,7 @@ function Navber() {
     <div>
       <div className='h-auto w-full flex flex-col md:flex-row items-center justify-between p-4 md:px-8' style={{ background: 'linear-gradient(to right, #aeebee, #6969ec)' }}>
         <div className='flex flex-col sm:flex-row items-center mb-2 sm:mb-0'>
-          <h1 className='text-[#faf9fb] font-[Montserrat] text-2xl font-semibold'>Bandage</h1>
+          <h1 className='text-[#faf9fb] font-[Montserrat] text-2xl font-semibold'>Ritika</h1>
         </div>
 
         {/* Hamburger Icon for Small Screens */}
